@@ -1,19 +1,16 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    introTitle: 'hè lố ô!',
+    introDesc: `hôm nay 20/10 đúng không :>>>>`,
+    btnIntro: 'chúc 2 và mẹ luôn luôn vui vẻ trẻ đẹp :DDDD',
+    title: 'happy womens day 20/10 😙',
+    desc: 'thấy Lợi làm cái này dê thương không :DD ',
+    btnYes: 'đúng vại :>>>',
+    btnNo: 'Không',
+    question:'có điều gì muốn nói cho Lợi hông :DDD',
+    btnReply: 'Gửi Lợi đep trai <33333',
+    reply: 'Lợi đẹp trai nhất nhà <33333333',
+    mess: 'Nói v lợi ngại 🥰. e biết e đẹp trai mà 😘😘',
+    messDesc: 'Nói chung là chúc me với chi 2 vui vẻ ngày 20/10 <3333 nhớ mua giày về cho Lơi .',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://media0.giphy.com/media/Qo95ZmY4XajRrEh115/giphy.gif?cid=ecf05e47gsm7qhlj75ukdz7suzpw45ohlfof8vyim87uxbk8&rid=giphy.gif&ct=g' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
