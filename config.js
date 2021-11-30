@@ -1,19 +1,16 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introTitle: 'Bảo Ngọc ơi!',
+    introDesc: `chắc cậu cũng biết là... tớ thích cậu từ lâu rồi mà đk <33`,
     btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    title: 'Tớ chỉ muốn nói là : 😙',
+    desc: 'tớ thích cậu rất nhiều, nếu được cậu có thể mở lòng cho mình 1 xíu đk :<< ',
+    btnYes: 'Cũm đc, okayyy ',
+    btnNo: 'Không,No hope :<<',
+    question:'Có gì muốn nói lại cho tớ hem ',
+    btnReply: 'Gửi cậu <3',
+    reply: ' I <3 U ',
+    mess: 'Tớ biết mà 🥰. Cảm ơn cậu nhiều nhiều 😘😘',
+    messDesc: 'Nếu được thì đón giáng sinh năm nay cùng tớ nha <3',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://media3.giphy.com/media/xlNDtecvg6zLrXvOaa/giphy.gif?cid=790b76115be1b99c5955baa59776f6a18348e47bbfa82709&rid=giphy.gif&ct=g' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
